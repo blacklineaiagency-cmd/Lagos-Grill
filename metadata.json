@@ -1,0 +1,6 @@
+{
+  "name": "Lagos Grill",
+  "description": "Single-page responsive website for Lagos Grill, a contemporary Nigerian and continental grill restaurant in Lagos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
